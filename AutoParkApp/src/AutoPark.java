@@ -1,9 +1,3 @@
-/*
-Name: Kishaan Gidda
-ID: 101333585
-Section: COMP 1406B
-*/
-
 import java.util.*;
 
 public class AutoPark {
@@ -139,6 +133,7 @@ public class AutoPark {
         return park;
     }
 }
+
 
 
 
