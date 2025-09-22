@@ -1,9 +1,9 @@
 **Features**
-* Inventory Management – Browse a catalog of vehicles and parts with detailed specs (make, model, year, price, etc.).
-* Shopping Cart System – Add, remove, and complete sales with live cart totals.
-* Sales Tracking – Monitor total sales, revenue, and average revenue per sale.
-* Popularity Analytics – View the most frequently purchased items.
-* Reset Stock – Restore inventory for quick demos or testing.
+* Inventory Management - Browse a catalog of vehicles and parts with detailed specs (make, model, year, price, etc.).
+* Shopping Cart System - Add, remove, and complete sales with live cart totals.
+* Sales Tracking - Monitor total sales, revenue, and average revenue per sale.
+* Popularity Analytics - View the most frequently purchased items.
+* Reset Stock - Restore inventory for quick demos or testing.
 
 **Technical Overview**
 * Language: Java
